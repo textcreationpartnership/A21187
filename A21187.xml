@@ -834,9 +834,12 @@ although thei dooe well. In di<g ref="char:EOLhyphen"/>uerſe Citees there is no
             <p>
                <hi>Cum priuilegio ad impri<g ref="char:EOLhyphen"/>mendum ſolum.</hi>
             </p>
-            <figure>
-               <p>SVSCIPITE INCITVM VERBVM &amp; IACO .I</p>
-            </figure>
+            <p>
+               <pb facs="tcp:4637:84"/>
+               <figure>
+                  <p>SVSCIPITE INCITVM VERBVM &amp; IACO .I</p>
+               </figure>
+            </p>
             <pb facs="tcp:4637:84"/>
          </div>
       </back>
